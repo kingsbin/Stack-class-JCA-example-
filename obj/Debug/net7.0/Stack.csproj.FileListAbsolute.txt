@@ -1,0 +1,14 @@
+\\kings.internal\Staff$\j.campbell\Documents\C# Projects\Stack\bin\Debug\net7.0\Stack.exe
+\\kings.internal\Staff$\j.campbell\Documents\C# Projects\Stack\bin\Debug\net7.0\Stack.deps.json
+\\kings.internal\Staff$\j.campbell\Documents\C# Projects\Stack\bin\Debug\net7.0\Stack.runtimeconfig.json
+\\kings.internal\Staff$\j.campbell\Documents\C# Projects\Stack\bin\Debug\net7.0\Stack.dll
+\\kings.internal\Staff$\j.campbell\Documents\C# Projects\Stack\bin\Debug\net7.0\Stack.pdb
+\\kings.internal\Staff$\j.campbell\Documents\C# Projects\Stack\obj\Debug\net7.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+\\kings.internal\Staff$\j.campbell\Documents\C# Projects\Stack\obj\Debug\net7.0\Stack.AssemblyInfoInputs.cache
+\\kings.internal\Staff$\j.campbell\Documents\C# Projects\Stack\obj\Debug\net7.0\Stack.AssemblyInfo.cs
+\\kings.internal\Staff$\j.campbell\Documents\C# Projects\Stack\obj\Debug\net7.0\Stack.csproj.CoreCompileInputs.cache
+\\kings.internal\Staff$\j.campbell\Documents\C# Projects\Stack\obj\Debug\net7.0\Stack.dll
+\\kings.internal\Staff$\j.campbell\Documents\C# Projects\Stack\obj\Debug\net7.0\refint\Stack.dll
+\\kings.internal\Staff$\j.campbell\Documents\C# Projects\Stack\obj\Debug\net7.0\Stack.pdb
+\\kings.internal\Staff$\j.campbell\Documents\C# Projects\Stack\obj\Debug\net7.0\Stack.genruntimeconfig.cache
+\\kings.internal\Staff$\j.campbell\Documents\C# Projects\Stack\obj\Debug\net7.0\ref\Stack.dll
