@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\kings.internal\\Staff$\\j.campbell\\Documents\\C# Projects\\Stack\\Stack.csproj",
-      "projectName": "Stack",
-      "projectPath": "\\\\kings.internal\\Staff$\\j.campbell\\Documents\\C# Projects\\Stack\\Stack.csproj",
+      "projectUniqueName": "\\\\kings.internal\\Staff$\\j.campbell\\Documents\\C# Projects\\Stack\\StackQueue.csproj",
+      "projectName": "StackQueue",
+      "projectPath": "\\\\kings.internal\\Staff$\\j.campbell\\Documents\\C# Projects\\Stack\\StackQueue.csproj",
       "packagesPath": "C:\\Users\\j.campbell\\.nuget\\packages\\",
       "outputPath": "\\\\kings.internal\\Staff$\\j.campbell\\Documents\\C# Projects\\Stack\\obj\\",
       "projectStyle": "PackageReference",
