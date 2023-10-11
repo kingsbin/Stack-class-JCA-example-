@@ -22,7 +22,7 @@ class myStack {
 ```
 #### Class Properties
 
-|Name|Score|Type|Purpose|  
+|Name|Scope|Type|Purpose|  
 |-|-|-|-|  
 |isEmpty|Public get|Bool|Indicates if Stack is Empty|  
 |isFull|Public get|Bool|Indicates if Stack is Full|  
@@ -36,7 +36,8 @@ class myStack {
 
 **new** 
 - In: maxSize
-- Out: Object : *myStack*
+- Out: Object : *myStack*  
+Constructor method for class.  takes maximum stack size as parameter.
 
 **Pop**
 - In: none
