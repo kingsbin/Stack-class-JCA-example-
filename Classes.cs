@@ -193,13 +193,10 @@ namespace StackQueueExample
             Console.WriteLine("-------------");
             return;
         }
-
-        public void ResetError(){
+        private void ResetError(){
             err=false;;
             msg="";
         }
-
-
     } 
 
     
