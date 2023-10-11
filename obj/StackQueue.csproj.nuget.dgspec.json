@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "\\\\kings.internal\\Staff$\\j.campbell\\Documents\\C# Projects\\Stack\\StackQueue.csproj": {}
+    "\\\\kings.internal\\Staff$\\j.campbell\\Documents\\C# Projects\\StackQueue\\StackQueue.csproj": {}
   },
   "projects": {
-    "\\\\kings.internal\\Staff$\\j.campbell\\Documents\\C# Projects\\Stack\\StackQueue.csproj": {
+    "\\\\kings.internal\\Staff$\\j.campbell\\Documents\\C# Projects\\StackQueue\\StackQueue.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\kings.internal\\Staff$\\j.campbell\\Documents\\C# Projects\\Stack\\StackQueue.csproj",
+        "projectUniqueName": "\\\\kings.internal\\Staff$\\j.campbell\\Documents\\C# Projects\\StackQueue\\StackQueue.csproj",
         "projectName": "StackQueue",
-        "projectPath": "\\\\kings.internal\\Staff$\\j.campbell\\Documents\\C# Projects\\Stack\\StackQueue.csproj",
+        "projectPath": "\\\\kings.internal\\Staff$\\j.campbell\\Documents\\C# Projects\\StackQueue\\StackQueue.csproj",
         "packagesPath": "C:\\Users\\j.campbell\\.nuget\\packages\\",
-        "outputPath": "\\\\kings.internal\\Staff$\\j.campbell\\Documents\\C# Projects\\Stack\\obj\\",
+        "outputPath": "\\\\kings.internal\\Staff$\\j.campbell\\Documents\\C# Projects\\StackQueue\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\j.campbell\\AppData\\Roaming\\NuGet\\NuGet.Config"

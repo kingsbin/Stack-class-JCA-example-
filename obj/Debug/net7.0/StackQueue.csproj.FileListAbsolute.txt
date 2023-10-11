@@ -12,3 +12,17 @@
 \\kings.internal\Staff$\j.campbell\Documents\C# Projects\Stack\obj\Debug\net7.0\StackQueue.pdb
 \\kings.internal\Staff$\j.campbell\Documents\C# Projects\Stack\obj\Debug\net7.0\StackQueue.genruntimeconfig.cache
 \\kings.internal\Staff$\j.campbell\Documents\C# Projects\Stack\obj\Debug\net7.0\ref\StackQueue.dll
+\\kings.internal\Staff$\j.campbell\Documents\C# Projects\StackQueue\obj\Debug\net7.0\StackQueue.GeneratedMSBuildEditorConfig.editorconfig
+\\kings.internal\Staff$\j.campbell\Documents\C# Projects\StackQueue\obj\Debug\net7.0\StackQueue.AssemblyInfoInputs.cache
+\\kings.internal\Staff$\j.campbell\Documents\C# Projects\StackQueue\obj\Debug\net7.0\StackQueue.AssemblyInfo.cs
+\\kings.internal\Staff$\j.campbell\Documents\C# Projects\StackQueue\obj\Debug\net7.0\StackQueue.csproj.CoreCompileInputs.cache
+\\kings.internal\Staff$\j.campbell\Documents\C# Projects\StackQueue\obj\Debug\net7.0\StackQueue.dll
+\\kings.internal\Staff$\j.campbell\Documents\C# Projects\StackQueue\obj\Debug\net7.0\refint\StackQueue.dll
+\\kings.internal\Staff$\j.campbell\Documents\C# Projects\StackQueue\obj\Debug\net7.0\StackQueue.pdb
+\\kings.internal\Staff$\j.campbell\Documents\C# Projects\StackQueue\bin\Debug\net7.0\StackQueue.exe
+\\kings.internal\Staff$\j.campbell\Documents\C# Projects\StackQueue\bin\Debug\net7.0\StackQueue.deps.json
+\\kings.internal\Staff$\j.campbell\Documents\C# Projects\StackQueue\bin\Debug\net7.0\StackQueue.runtimeconfig.json
+\\kings.internal\Staff$\j.campbell\Documents\C# Projects\StackQueue\bin\Debug\net7.0\StackQueue.dll
+\\kings.internal\Staff$\j.campbell\Documents\C# Projects\StackQueue\bin\Debug\net7.0\StackQueue.pdb
+\\kings.internal\Staff$\j.campbell\Documents\C# Projects\StackQueue\obj\Debug\net7.0\StackQueue.genruntimeconfig.cache
+\\kings.internal\Staff$\j.campbell\Documents\C# Projects\StackQueue\obj\Debug\net7.0\ref\StackQueue.dll
