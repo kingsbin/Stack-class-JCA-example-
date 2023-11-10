@@ -167,11 +167,12 @@ namespace StackQueueExample
         public void Push(string newItem){
             
             if (isFull) {
-               err=true; 
+                err=true; 
+                msg= "Error - Stack Overflow";
             } else {
                 head++;
                 stack[head]=newItem;
-                if (head==maxSize) {
+                if (head==maxSize-1) {
                     isFull=true;
                 }
                 isEmpty=false;

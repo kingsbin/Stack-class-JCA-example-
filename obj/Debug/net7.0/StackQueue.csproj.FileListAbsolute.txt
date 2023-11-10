@@ -26,3 +26,6 @@
 \\kings.internal\Staff$\j.campbell\Documents\C# Projects\StackQueue\bin\Debug\net7.0\StackQueue.pdb
 \\kings.internal\Staff$\j.campbell\Documents\C# Projects\StackQueue\obj\Debug\net7.0\StackQueue.genruntimeconfig.cache
 \\kings.internal\Staff$\j.campbell\Documents\C# Projects\StackQueue\obj\Debug\net7.0\ref\StackQueue.dll
+\\kings.internal\Staff$\j.campbell\Documents\C# Projects\StackQueue\bin\Debug\net7.0\MySqlConnector.dll
+\\kings.internal\Staff$\j.campbell\Documents\C# Projects\StackQueue\obj\Debug\net7.0\StackQueue.csproj.AssemblyReference.cache
+\\kings.internal\Staff$\j.campbell\Documents\C# Projects\StackQueue\obj\Debug\net7.0\StackQueue.csproj.CopyComplete
